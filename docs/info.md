@@ -8,13 +8,13 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
+AND, NAND and OR GATES are connected to the input a and b
 
-Explain how your project works
-
+16 flip flops are used to divide the clock speed with 2 outputs one at the 12th flip flop and one at the 16th 
 ## How to test
 
-Explain how to use your project
+Set the inputs and check the outputs match with the expected results
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+
